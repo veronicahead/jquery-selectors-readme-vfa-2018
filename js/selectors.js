@@ -4,18 +4,18 @@ function  paragraphSelector() {
   return
 }
 
-function  paragraphSelector() {
+function  lastImageSelector() {
   return
 }
 
-function  paragraphSelector() {
+function  ninjaBabySelector() {
   return
 }
 
-function  paragraphSelector() {
+function  divSelector() {
   return
 }
 
-function  paragraphSelector() {
+function  firstListItem() {
   return
 }
